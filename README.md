@@ -221,6 +221,9 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
   - It is executed by shifting each letter in a message three letters forward in the alphabet.
 
 #WEEK 11
+####No classes
+
+#WEEK 12
 ####Graph Theory
 * This week, we were introduced to the concept of Graphs.
 * I learned that graphs are structures that contains vertices which are interconnected by edges.
