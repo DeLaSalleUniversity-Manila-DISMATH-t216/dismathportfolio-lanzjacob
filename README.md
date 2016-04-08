@@ -223,8 +223,8 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 #WEEK 11
 ####Graph Theory
 * This week, we were introduced to the concept of Graphs.
-* I learned that graphs are structures that contains vertices which are interconnected through the edges.
-* I also learned about the degree of a vertex. It is the number of connections a vertex has or in a simpler term, it is the nubmer of edges connected in a vertex.
+* I learned that graphs are structures that contains vertices which are interconnected by edges.
+* I also learned about the degree of a vertex. It is the number of connections a vertex has or in a simpler term, it is the number of edges connected in a vertex.
 * We were also introduced to the Handshaking Theorem. It is a formula to get the number of edges when the number of vertices and degrees are given. 
 
 ####Euler Circuits and Paths
@@ -249,14 +249,14 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * Two graphs are isomorphic if their vertices have the same connections even though they are not same in position. 
 
 ####Planar and Nonplanar Graphs
-* I learned that Planar graphs are graphs that can be represented without edges that are crossing each other. While a Nonplanar graph is a graph that can't be represented without edges having to cross even after a lot of modifications.
+* I learned that Planar graphs are graphs that can be represented without edges that are crossing each other. While a nonplanar graph is a graph that can't be represented without edges having to cross even after a lot of modifications.
 * Kuratowski's Theorem
-  - If a graph contains a K3,3 and K5 graph therefore it is non-planar.
+  - If a graph contains a K3,3 and K5 graph then it is non-planar.
 
 #WEEK 13
 ####Graph Coloring
 * This week, we learned all about Graph Coloring.
-* It is the process of assigning a certain color to a vertex but adjacent vertices must not have the same color.
+* It is the process of assigning a certain color to a vertex with adjacent vertices not having the same color.
 * The number of colors used in coloring a graph is called the chromatic number.
 * I also learned about the Four Color Theorem. It says that a planar graph must have a chromatic number that is less than or equal to four.
 
@@ -264,8 +264,8 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * We were also introduced to the concepts of Trees.
 * A tree is an undirected graph which has vertices connected to each other representing a hierarchical structure.
 * A rooted tree is a tree wherein the root vertix is specified. All the edges are directed away from this vertix. 
-* An m-ary tree, on the other hand, is a tree whose internal vertices have no more thn m children.
-* An ordered rooted tree is a tree that contains children that are ordered. The order is the value of the child on the left side is less than the parent's value while the right side is greater.
+* An m-ary tree, on the other hand, is a tree whose internal vertices have no more than m children.
+* An ordered rooted tree is a tree that contains children that are ordered. The order must be the value of the child on the left side is less than the parent's value while the right side is greater than the parent's value.
 
 ####Automata Theory
 * It was our last day for DISMATH :( and we discussed about Grammar and Language and the Automata Theory.
