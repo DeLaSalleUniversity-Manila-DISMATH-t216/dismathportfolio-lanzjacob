@@ -281,8 +281,19 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * A spanning tree of a graph is a tree that contains every vertex of that graph.
 
 ####Relations and Their Properties
+* Reflexive Property - a relation in A is called reflexive if every element of A is connected to itself. It also contains pairs with the form (a,a) or (b,b) etc.
+* Symmetric Property - a relation in A is symmetric if a is related to b implies b is related to a. The relation also contains both (a,b) and (b,a).
+* Transitive Property - a relation in A is symmetric if it contains the pairs (a,b), (b,c) and (a,c).
+
 ####n-ary Relations and Applications
+
 ####Representing Relations
+* Relations can be represented through either matrices or digraphs.
+
 ####Closures of Relations
+
 ####Equivalence Relations
+* A relation is considered an equivalence relation if it is symmetric, transitive and reflexive.
+
 ####Partial Orderings
+* A relation is called a partial ordering if it is antisymmetric, transitive and reflexive.
