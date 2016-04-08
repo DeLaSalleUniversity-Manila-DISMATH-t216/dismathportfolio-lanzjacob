@@ -227,7 +227,7 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * I also learned about the degree of a vertex. It is the number of connections a vertex has or in a simpler term, it is the nubmer of edges connected in a vertex.
 * We were also introduced to the Handshaking Theorem. It is a formula to get the number of edges when the number of vertices and degrees are given. 
 
-#####Euler Circuits and Paths
+####Euler Circuits and Paths
 * This week, we also learned about Euler Circuits and Paths.
 * We were introduced to the problem through the Konigsberg Problem.
 * An Euler circuit is a simple circuit that passes through every edge present in the graph and goes back to the start without repitition.
