@@ -1,5 +1,8 @@
 # dismathportfolio-lanzjacob
 dismathportfolio-lanzjacob created by Classroom for GitHub
+
+#Lanz Harvey M. Jacob Dismath EL
+
 #WEEK 1
 
 ####Orientation Day
@@ -158,7 +161,7 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * We were also introduced to the difference between DOMAIN, CODOMAIN, and RANGE.
 
 #WEEK 7
-####No classes! :smile:
+####No classes
 
 #WEEK 8
 ####Algorithm
@@ -216,3 +219,66 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * I was also introduced to the Caesar Cipher.
   - This method was used by Julius Caesar.
   - It is executed by shifting each letter in a message three letters forward in the alphabet.
+
+#WEEK 11
+####Graph Theory
+* This week, we were introduced to the concept of Graphs.
+* I learned that graphs are structures that contains vertices which are interconnected through the edges.
+* I also learned about the degree of a vertex. It is the number of connections a vertex has or in a simpler term, it is the nubmer of edges connected in a vertex.
+* We were also introduced to the Handshaking Theorem. It is a formula to get the number of edges when the number of vertices and degrees are given. 
+
+#####Euler Circuits and Paths
+* This week, we also learned about Euler Circuits and Paths.
+* We were introduced to the problem through the Konigsberg Problem.
+* An Euler circuit is a simple circuit that passes through every edge present in the graph and goes back to the start without repitition.
+* An Euler path, on the other hand, is a path that contains all edges but doesn't go back to the start.
+* I also learned that an Euler Circuit contains vertices all with even degrees. Meanwhile, an Euler Path must always contain two vertices with odd degrees.
+
+####Hamilton Circuits and Paths
+* Hamilton Circuits and Paths were also introduced to us.
+* It is more complicated than Euler Circuits and Paths.
+* A Hamilton Circuit is a circuit that contains all the vertices and goes back to the starting vertix without repitition.
+* A Hamilton Path is a path that passes through all the vertices without repitition.
+* I also learned that if there is a pendant in a graph, then it doesn't contain a Hamilton Circuit. If it has 3 or more pendants then you can immediately conclude that it doesn't have a Hamilton Path.
+
+####Matrices of Graphs
+* We were also introduced to the adjacency matrix of a graph.
+* A 1 in an adjacency matrix means that the two vertices are connected while a 0 means otherwise.
+
+####Isomorphism in Graphs
+* Two graphs are isomorphic if their vertices have the same connections even though they are not same in position. 
+
+####Planar and Nonplanar Graphs
+* I learned that Planar graphs are graphs that can be represented without edges that are crossing each other. While a Nonplanar graph is a graph that can't be represented without edges having to cross even after a lot of modifications.
+* Kuratowski's Theorem
+  - If a graph contains a K3,3 and K5 graph therefore it is non-planar.
+
+#WEEK 13
+####Graph Coloring
+* This week, we learned all about Graph Coloring.
+* It is the process of assigning a certain color to a vertex but adjacent vertices must not have the same color.
+* The number of colors used in coloring a graph is called the chromatic number.
+* I also learned about the Four Color Theorem. It says that a planar graph must have a chromatic number that is less than or equal to four.
+
+####Trees
+* We were also introduced to the concepts of Trees.
+* A tree is an undirected graph which has vertices connected to each other representing a hierarchical structure.
+* A rooted tree is a tree wherein the root vertix is specified. All the edges are directed away from this vertix. 
+* An m-ary tree, on the other hand, is a tree whose internal vertices have no more thn m children.
+* An ordered rooted tree is a tree that contains children that are ordered. The order is the value of the child on the left side is less than the parent's value while the right side is greater.
+
+####Automata Theory
+* It was our last day for DISMATH :( and we discussed about Grammar and Language and the Automata Theory.
+* The automata theory is the study on the laws of computation.
+* We also learned about a finite-state machine.
+* We also learned that a vending machine is a finite-state machine.
+
+#READING ASSIGNMENTS
+####Tree Traversal
+####Spanning Trees
+####Relations and Their Properties
+####n-ary Relations and Applications
+####Representing Relations
+####Closures of Relations
+####Equivalence Relations
+####Partial Orderings
