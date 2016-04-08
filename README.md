@@ -275,7 +275,9 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 
 #READING ASSIGNMENTS
 ####Tree Traversal
+* I learned that tree traversal is the process of visiting every element in a tree.
 ####Spanning Trees
+* A spanning tree of a graph is a tree that contains every vertex of that graph.
 ####Relations and Their Properties
 ####n-ary Relations and Applications
 ####Representing Relations
