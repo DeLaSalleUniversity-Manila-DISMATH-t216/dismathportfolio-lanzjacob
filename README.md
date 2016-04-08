@@ -286,6 +286,8 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * Transitive Property - a relation in A is symmetric if it contains the pairs (a,b), (b,c) and (a,c).
 
 ####n-ary Relations and Applications
+* An n-ary relation means that there are n elements involved in the relationship.
+* N-ary relations can be applied in databases. 
 
 ####Representing Relations
 * Relations can be represented through either matrices or digraphs.
