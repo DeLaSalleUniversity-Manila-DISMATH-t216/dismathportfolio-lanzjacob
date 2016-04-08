@@ -291,6 +291,9 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * Relations can be represented through either matrices or digraphs.
 
 ####Closures of Relations
+* Reflexive Closure - Consider a relation R is not reflexive. Therefore, we need to add edges to make it reflexive. The resulting relation is called a Reflexive Closure.
+* Symmetric Closure - in looking for the symmetric closure of a relation R, we need to add an edge from node a to b if an edge from b to a is already existing.
+* Transitive Closure - in finding the transitive closure of a relation R, we need to add an edge from node a to c if an edge from a to b and b to c is already present.
 
 ####Equivalence Relations
 * A relation is considered an equivalence relation if it is symmetric, transitive and reflexive.
