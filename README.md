@@ -276,7 +276,7 @@ dismathportfolio-lanzjacob created by Classroom for GitHub
 * We also learned about a finite-state machine.
 * We also learned that a vending machine is a finite-state machine.
 
-#READING ASSIGNMENTS
+#READING ASSIGNMENT
 ####Tree Traversal
 * I learned that tree traversal is the process of visiting every element in a tree.
 
